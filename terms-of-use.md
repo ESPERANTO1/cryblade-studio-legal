@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Soft Blocks — Terms of Use
+title: Qubima — Terms of Use
 ---
 
-# Terms of Use for Soft Blocks
+# Terms of Use for Qubima
 
-**Effective date: September 25, 2026**  
+**Effective date: October 25, 2026**<br>
 **Developer: CRYBLADE Studio**  
 **Contact: [crybladestudio@gmail.com](mailto:crybladestudio@gmail.com)**  
 **Country: Ukraine**
@@ -18,7 +18,7 @@ title: Soft Blocks — Terms of Use
 
 ### 1. Acceptance of these Terms
 
-These Terms of Use (“Terms”) govern your use of the mobile game **Soft Blocks** (the “Game”), developed and published by **CRYBLADE Studio** (“we”, “us”, or “our”). By downloading, installing, or using the Game, you agree to these Terms. If you do not agree, do not use the Game.
+These Terms of Use (“Terms”) govern your use of the mobile game **Qubima** (the “Game”), developed and published by **CRYBLADE Studio** (“we”, “us”, or “our”). By downloading, installing, or using the Game, you agree to these Terms. If you do not agree, do not use the Game.
 
 ### 2. Who may use the Game
 
@@ -48,7 +48,7 @@ Scores, levels, rewards, continue attempts, and other virtual gameplay elements 
 
 ### 6. Advertising and purchases
 
-The current version does not actively provide advertising or in-app purchases. A future version may introduce optional rewarded advertising, purchases, or related services. If it does, the Game, store listing, these Terms, and the Privacy Policy will be updated as appropriate before or when those features become available.
+The Game may display banner and interstitial advertisements and offer optional rewarded advertisements. You may choose whether to watch a rewarded advertisement to receive the related in-game benefit. The Game currently does not offer in-app purchases. Advertising and related data processing are described in the Privacy Policy.
 
 ### 7. Intellectual property
 
@@ -96,7 +96,7 @@ Country: Ukraine
 
 ### 1. Прийняття Умов
 
-Ці Умови використання (далі — «Умови») регулюють використання мобільної гри **Soft Blocks** (далі — «Гра»), розробленої та опублікованої **CRYBLADE Studio** (далі — «ми», «нас» або «наш»). Завантажуючи, встановлюючи або використовуючи Гру, ви погоджуєтеся з цими Умовами. Якщо ви не погоджуєтеся, не використовуйте Гру.
+Ці Умови використання (далі — «Умови») регулюють використання мобільної гри **Qubima** (далі — «Гра»), розробленої та опублікованої **CRYBLADE Studio** (далі — «ми», «нас» або «наш»). Завантажуючи, встановлюючи або використовуючи Гру, ви погоджуєтеся з цими Умовами. Якщо ви не погоджуєтеся, не використовуйте Гру.
 
 ### 2. Хто може користуватися Грою
 
@@ -126,7 +126,7 @@ Country: Ukraine
 
 ### 6. Реклама та покупки
 
-Поточна версія не містить активної реклами або внутрішніх покупок. У майбутній версії можуть з’явитися необов’язкова реклама за винагороду, покупки або пов’язані сервіси. У такому разі Гру, її сторінку в магазині, ці Умови та Політику конфіденційності буде належним чином оновлено до появи таких функцій або одночасно з нею.
+У Грі можуть показуватися банерна та міжсторінкова реклама, а також пропонуватися необов’язкова реклама за винагороду. Ви самі вирішуєте, чи переглядати рекламу за винагороду, щоб отримати відповідну ігрову перевагу. Наразі Гра не пропонує покупок у додатку. Рекламу та пов’язану з нею обробку даних описано в Політиці конфіденційності.
 
 ### 7. Інтелектуальна власність
 
@@ -174,7 +174,7 @@ Country: Ukraine
 
 ### 1. Принятие Условий
 
-Настоящие Условия использования (далее — «Условия») регулируют использование мобильной игры **Soft Blocks** (далее — «Игра»), разработанной и опубликованной **CRYBLADE Studio** (далее — «мы», «нас» или «наш»). Загружая, устанавливая или используя Игру, вы соглашаетесь с настоящими Условиями. Если вы не согласны, не используйте Игру.
+Настоящие Условия использования (далее — «Условия») регулируют использование мобильной игры **Qubima** (далее — «Игра»), разработанной и опубликованной **CRYBLADE Studio** (далее — «мы», «нас» или «наш»). Загружая, устанавливая или используя Игру, вы соглашаетесь с настоящими Условиями. Если вы не согласны, не используйте Игру.
 
 ### 2. Кто может пользоваться Игрой
 
@@ -204,7 +204,7 @@ Country: Ukraine
 
 ### 6. Реклама и покупки
 
-В текущей версии нет активной рекламы или встроенных покупок. В будущей версии могут появиться необязательная реклама за вознаграждение, покупки или связанные сервисы. В таком случае Игра, её страница в магазине, настоящие Условия и Политика конфиденциальности будут надлежащим образом обновлены до появления таких функций или одновременно с ним.
+В Игре могут показываться баннерная и межстраничная реклама, а также предлагаться необязательная реклама за вознаграждение. Вы сами решаете, смотреть ли рекламу за вознаграждение, чтобы получить связанную с ней игровую награду. Сейчас в Игре нет встроенных покупок. Реклама и связанная с ней обработка данных описаны в Политике конфиденциальности.
 
 ### 7. Интеллектуальная собственность
 
@@ -245,3 +245,4 @@ Country: Ukraine
 Страна: Украина
 
 [Назад к списку документов](index.html)
+

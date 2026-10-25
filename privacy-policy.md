@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Soft Blocks — Privacy Policy
+title: Qubima — Privacy Policy
 ---
 
-# Privacy Policy for Soft Blocks
+# Privacy Policy for Qubima
 
-**Last updated: October 1, 2026**  
+**Last updated: October 25, 2026**<br>
 **Developer: CRYBLADE Studio**  
 **Contact: [crybladestudio@gmail.com](mailto:crybladestudio@gmail.com)**  
 **Country: Ukraine**
@@ -18,7 +18,7 @@ title: Soft Blocks — Privacy Policy
 
 ### 1. Introduction
 
-This Privacy Policy explains how the mobile game **Soft Blocks** (the “Game”), developed and published by **CRYBLADE Studio** (“we”, “us”, or “our”), handles information when you use the Game.
+This Privacy Policy explains how the mobile game **Qubima** (the “Game”), developed and published by **CRYBLADE Studio** (“we”, “us”, or “our”), handles information when you use the Game.
 
 The Game is available for Android. It works without creating a user account and does not send gameplay progress to servers operated by CRYBLADE Studio.
 
@@ -40,7 +40,7 @@ Local game data remains on your device until it is overwritten, cleared through 
 
 ### 3. Advertising and information processed by Google AdMob
 
-Soft Blocks uses **Google AdMob**, provided by Google, to display advertisements.
+Qubima uses **Google AdMob**, provided by Google, to display advertisements.
 
 The Game may display advertising formats including:
 
@@ -112,13 +112,13 @@ Gameplay progress, settings, scores, and other locally stored Game information r
 
 You can remove local Game data through Android application settings or by uninstalling the Game.
 
-Soft Blocks currently does not provide user accounts, and CRYBLADE Studio does not maintain a server-side player account database for the Game.
+Qubima currently does not provide user accounts, and CRYBLADE Studio does not maintain a server-side player account database for the Game.
 
 Information processed by Google or other third-party service providers is subject to their respective retention and deletion practices.
 
 ### 9. Security
 
-CRYBLADE Studio takes reasonable measures to limit the information handled directly by the Game and does not maintain an online player account database for Soft Blocks.
+CRYBLADE Studio takes reasonable measures to limit the information handled directly by the Game and does not maintain an online player account database for Qubima.
 
 Third-party services may use their own technical and organizational security measures to protect information they process.
 
@@ -126,7 +126,7 @@ However, no method of electronic transmission or storage can be guaranteed to be
 
 ### 10. Children's privacy
 
-Soft Blocks is intended for a general audience and is not specifically directed to children.
+Qubima is intended for a general audience and is not specifically directed to children.
 
 CRYBLADE Studio does not knowingly request personal information such as names, email addresses, phone numbers, or home addresses from children through the Game.
 
@@ -166,7 +166,7 @@ Country: Ukraine
 
 ### 1. Вступ
 
-Ця Політика конфіденційності пояснює, як мобільна гра **Soft Blocks** (далі — «Гра»), розроблена та опублікована **CRYBLADE Studio** (далі — «ми», «нас» або «наш»), обробляє інформацію під час використання Гри.
+Ця Політика конфіденційності пояснює, як мобільна гра **Qubima** (далі — «Гра»), розроблена та опублікована **CRYBLADE Studio** (далі — «ми», «нас» або «наш»), обробляє інформацію під час використання Гри.
 
 Гра доступна для Android. Вона працює без створення облікового запису користувача та не надсилає ігровий прогрес на сервери, якими керує CRYBLADE Studio.
 
@@ -188,7 +188,7 @@ Country: Ukraine
 
 ### 3. Реклама та інформація, яку обробляє Google AdMob
 
-Soft Blocks використовує **Google AdMob**, сервіс Google, для показу реклами.
+Qubima використовує **Google AdMob**, сервіс Google, для показу реклами.
 
 У Грі можуть використовуватися такі формати реклами:
 
@@ -260,13 +260,13 @@ CRYBLADE Studio не продає персональну інформацію к
 
 Видалити локальні дані Гри можна через налаштування програм Android або шляхом видалення Гри.
 
-Наразі Soft Blocks не має облікових записів користувачів, а CRYBLADE Studio не веде серверну базу облікових записів гравців для Гри.
+Наразі Qubima не має облікових записів користувачів, а CRYBLADE Studio не веде серверну базу облікових записів гравців для Гри.
 
 Інформація, яку обробляє Google або інші сторонні постачальники послуг, регулюється їхніми відповідними правилами зберігання та видалення даних.
 
 ### 9. Безпека
 
-CRYBLADE Studio вживає розумних заходів для обмеження інформації, яку безпосередньо обробляє Гра, і не веде онлайн-базу облікових записів гравців Soft Blocks.
+CRYBLADE Studio вживає розумних заходів для обмеження інформації, яку безпосередньо обробляє Гра, і не веде онлайн-базу облікових записів гравців Qubima.
 
 Сторонні сервіси можуть використовувати власні технічні та організаційні заходи безпеки для захисту інформації, яку вони обробляють.
 
@@ -274,7 +274,7 @@ CRYBLADE Studio вживає розумних заходів для обмеже
 
 ### 10. Конфіденційність дітей
 
-Soft Blocks призначена для широкої аудиторії та не орієнтована спеціально на дітей.
+Qubima призначена для широкої аудиторії та не орієнтована спеціально на дітей.
 
 CRYBLADE Studio свідомо не запитує через Гру персональну інформацію дітей, таку як ім'я, адреса електронної пошти, номер телефону або домашня адреса.
 
@@ -314,7 +314,7 @@ CRYBLADE Studio не використовує власну серверну ін
 
 ### 1. Введение
 
-Настоящая Политика конфиденциальности объясняет, как мобильная игра **Soft Blocks** (далее — «Игра»), разработанная и опубликованная **CRYBLADE Studio** (далее — «мы», «нас» или «наш»), обрабатывает информацию при использовании Игры.
+Настоящая Политика конфиденциальности объясняет, как мобильная игра **Qubima** (далее — «Игра»), разработанная и опубликованная **CRYBLADE Studio** (далее — «мы», «нас» или «наш»), обрабатывает информацию при использовании Игры.
 
 Игра доступна для Android. Она работает без создания учётной записи пользователя и не отправляет игровой прогресс на серверы, управляемые CRYBLADE Studio.
 
@@ -336,7 +336,7 @@ CRYBLADE Studio не використовує власну серверну ін
 
 ### 3. Реклама и информация, обрабатываемая Google AdMob
 
-Soft Blocks использует **Google AdMob**, сервис Google, для показа рекламы.
+Qubima использует **Google AdMob**, сервис Google, для показа рекламы.
 
 В Игре могут использоваться следующие форматы рекламы:
 
@@ -408,13 +408,13 @@ CRYBLADE Studio не продаёт персональную информаци�
 
 Удалить локальные данные Игры можно через настройки приложений Android либо путём удаления Игры.
 
-В настоящее время Soft Blocks не предоставляет учётные записи пользователей, а CRYBLADE Studio не ведёт серверную базу учётных записей игроков для Игры.
+В настоящее время Qubima не предоставляет учётные записи пользователей, а CRYBLADE Studio не ведёт серверную базу учётных записей игроков для Игры.
 
 Информация, обрабатываемая Google или другими сторонними поставщиками услуг, регулируется их соответствующими правилами хранения и удаления данных.
 
 ### 9. Безопасность
 
-CRYBLADE Studio принимает разумные меры для ограничения информации, непосредственно обрабатываемой Игрой, и не ведёт онлайн-базу учётных записей игроков Soft Blocks.
+CRYBLADE Studio принимает разумные меры для ограничения информации, непосредственно обрабатываемой Игрой, и не ведёт онлайн-базу учётных записей игроков Qubima.
 
 Сторонние сервисы могут использовать собственные технические и организационные меры безопасности для защиты обрабатываемой ими информации.
 
@@ -422,7 +422,7 @@ CRYBLADE Studio принимает разумные меры для ограни
 
 ### 10. Конфиденциальность детей
 
-Soft Blocks предназначена для широкой аудитории и не ориентирована специально на детей.
+Qubima предназначена для широкой аудитории и не ориентирована специально на детей.
 
 CRYBLADE Studio сознательно не запрашивает через Игру персональную информацию детей, такую как имя, адрес электронной почты, номер телефона или домашний адрес.
 
@@ -455,3 +455,4 @@ CRYBLADE Studio не использует собственную серверн�
 Страна: Украина
 
 [Назад к списку документов](index.html)
+

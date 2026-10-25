@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Soft Blocks — Legal Documents
+title: Qubima — Legal Documents
 ---
 
-# Soft Blocks — Legal Documents
+# Qubima — Legal Documents
 
-Official legal information for **Soft Blocks** by **CRYBLADE Studio**.
+Official legal information for **Qubima** by **CRYBLADE Studio**.
 
 Choose a document. Each document contains English, Ukrainian, and Russian versions.
 
@@ -21,3 +21,4 @@ Choose a document. Each document contains English, Ukrainian, and Russian versio
 - Русский
 
 Contact: [crybladestudio@gmail.com](mailto:crybladestudio@gmail.com)
+
