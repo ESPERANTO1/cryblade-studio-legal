@@ -5,7 +5,7 @@ title: Qubima — Privacy Policy
 
 # Privacy Policy for Qubima
 
-**Last updated: October 25, 2026**<br>
+**Last updated: November 5, 2026**<br>
 **Developer: CRYBLADE Studio**  
 **Contact: [crybladestudio@gmail.com](mailto:crybladestudio@gmail.com)**  
 **Country: Ukraine**
@@ -24,6 +24,8 @@ The Game is available for Android. It works without creating a user account and 
 
 The Game uses third-party services, including **Google AdMob / Google Mobile Ads SDK**, to provide advertising. These third-party services may automatically collect or process certain information as described below.
 
+In versions of the Game that offer Google Play Games, you can connect a Play Games profile and choose whether to save gameplay progress to, or load it from, Google Play Games Saved Games. Playing without this connection remains possible with local saves.
+
 ### 2. Information stored locally by the Game
 
 The Game stores information required for its features directly on your device. This may include:
@@ -37,6 +39,8 @@ The Game stores information required for its features directly on your device. T
 This locally stored gameplay information is not intended to identify you and is not transmitted to or stored on servers operated by CRYBLADE Studio.
 
 Local game data remains on your device until it is overwritten, cleared through the device settings, or removed when the Game is uninstalled.
+
+When you choose cloud saving, a copy of gameplay progress, unlocked levels, scores, stars, and unfinished game state is sent to Google Play Games Saved Games. Language, sound settings, advertising choices, and advertising counters are not included in that cloud copy. Google may process your Play Games profile identifier and display name to provide sign-in and saved-game functions. CRYBLADE Studio does not operate the cloud storage or receive your Google account password.
 
 ### 3. Advertising and information processed by Google AdMob
 
@@ -114,6 +118,8 @@ You can remove local Game data through Android application settings or by uninst
 
 Qubima currently does not provide user accounts, and CRYBLADE Studio does not maintain a server-side player account database for the Game.
 
+Cloud progress associated with a Google Play Games profile is stored by Google under its own retention and deletion practices. Removing the Game or clearing its local data does not necessarily delete that cloud copy. You can manage Play Games data through Google's account and Play Games settings.
+
 Information processed by Google or other third-party service providers is subject to their respective retention and deletion practices.
 
 ### 9. Security
@@ -172,6 +178,8 @@ Country: Ukraine
 
 Гра використовує сторонні сервіси, зокрема **Google AdMob / Google Mobile Ads SDK**, для показу реклами. Ці сторонні сервіси можуть автоматично збирати або обробляти певну інформацію, як описано нижче.
 
+У версіях Гри, де доступний Google Play Games, ви можете підключити профіль Play Games і самостійно вибрати, чи зберегти ігровий прогрес у Google Play Games Saved Games, чи завантажити його звідти. Гра без підключення й надалі працюватиме з локальними збереженнями.
+
 ### 2. Інформація, що зберігається локально
 
 Гра зберігає безпосередньо на вашому пристрої інформацію, необхідну для роботи її функцій. Вона може включати:
@@ -185,6 +193,8 @@ Country: Ukraine
 Ця локально збережена ігрова інформація не призначена для встановлення вашої особи та не передається і не зберігається на серверах CRYBLADE Studio.
 
 Локальні дані Гри залишаються на вашому пристрої, доки їх не буде перезаписано, очищено через налаштування пристрою або видалено разом із видаленням Гри.
+
+Якщо ви виберете хмарне збереження, копію ігрового прогресу, відкритих рівнів, результатів, зірок і незавершеного стану гри буде передано до Google Play Games Saved Games. Мова, налаштування звуку, вибір щодо реклами та рекламні лічильники не входять до цієї копії. Google може обробляти ідентифікатор і відображуване ім'я вашого профілю Play Games для входу та хмарного збереження. CRYBLADE Studio не керує хмарним сховищем і не отримує пароль вашого облікового запису Google.
 
 ### 3. Реклама та інформація, яку обробляє Google AdMob
 
@@ -262,6 +272,8 @@ CRYBLADE Studio не продає персональну інформацію к
 
 Наразі Qubima не має облікових записів користувачів, а CRYBLADE Studio не веде серверну базу облікових записів гравців для Гри.
 
+Хмарний прогрес, пов'язаний із профілем Google Play Games, зберігається компанією Google відповідно до її правил зберігання та видалення. Видалення Гри або її локальних даних не обов'язково видаляє хмарну копію. Керувати даними Play Games можна через налаштування облікового запису Google та Play Games.
+
 Інформація, яку обробляє Google або інші сторонні постачальники послуг, регулюється їхніми відповідними правилами зберігання та видалення даних.
 
 ### 9. Безпека
@@ -320,6 +332,8 @@ CRYBLADE Studio не використовує власну серверну ін
 
 Игра использует сторонние сервисы, включая **Google AdMob / Google Mobile Ads SDK**, для показа рекламы. Эти сторонние сервисы могут автоматически собирать или обрабатывать определённую информацию, как описано ниже.
 
+В версиях Игры, где доступен Google Play Games, можно подключить профиль Play Games и самостоятельно выбрать, сохранять ли игровой прогресс в Google Play Games Saved Games или загружать его оттуда. Без подключения Игра продолжит работать с локальными сохранениями.
+
 ### 2. Информация, хранящаяся локально
 
 Игра хранит непосредственно на вашем устройстве информацию, необходимую для работы её функций. Она может включать:
@@ -333,6 +347,8 @@ CRYBLADE Studio не використовує власну серверну ін
 Эта локально сохранённая игровая информация не предназначена для установления вашей личности и не передаётся и не хранится на серверах CRYBLADE Studio.
 
 Локальные данные Игры остаются на вашем устройстве, пока они не будут перезаписаны, очищены через настройки устройства или удалены вместе с удалением Игры.
+
+Если вы выберете облачное сохранение, копия игрового прогресса, открытых уровней, результатов, звёзд и незавершённого состояния игры передаётся в Google Play Games Saved Games. Язык, настройки звука, выбор в отношении рекламы и рекламные счётчики в эту копию не входят. Google может обрабатывать идентификатор и отображаемое имя вашего профиля Play Games для входа и облачного сохранения. CRYBLADE Studio не управляет облачным хранилищем и не получает пароль вашего аккаунта Google.
 
 ### 3. Реклама и информация, обрабатываемая Google AdMob
 
@@ -409,6 +425,8 @@ CRYBLADE Studio не продаёт персональную информаци�
 Удалить локальные данные Игры можно через настройки приложений Android либо путём удаления Игры.
 
 В настоящее время Qubima не предоставляет учётные записи пользователей, а CRYBLADE Studio не ведёт серверную базу учётных записей игроков для Игры.
+
+Облачный прогресс, связанный с профилем Google Play Games, хранится компанией Google по её правилам хранения и удаления. Удаление Игры или её локальных данных не обязательно удаляет облачную копию. Управлять данными Play Games можно через настройки аккаунта Google и Play Games.
 
 Информация, обрабатываемая Google или другими сторонними поставщиками услуг, регулируется их соответствующими правилами хранения и удаления данных.
 

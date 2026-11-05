@@ -5,7 +5,7 @@ title: Qubima — Terms of Use
 
 # Terms of Use for Qubima
 
-**Effective date: October 25, 2026**<br>
+**Effective date: November 5, 2026**<br>
 **Developer: CRYBLADE Studio**  
 **Contact: [crybladestudio@gmail.com](mailto:crybladestudio@gmail.com)**  
 **Country: Ukraine**
@@ -40,9 +40,11 @@ You must not:
 - use cheats, automation, exploits, or unauthorised software to manipulate the Game;
 - use the Game unlawfully or in a way that harms other users, us, or third parties.
 
-### 5. Gameplay, progress, and local saves
+### 5. Gameplay, progress, and saves
 
-The current version stores progress and settings locally on your device. Removing the Game, clearing its storage, changing or losing the device, software failure, or an update may cause local progress to be lost. Unless a future feature expressly says otherwise, we do not guarantee restoration or transfer of local saves.
+The Game stores progress and settings locally on your device. Removing the Game, clearing its storage, changing or losing the device, software failure, or an update may cause local progress to be lost. Restoration or transfer of local saves is available only when a supported feature expressly provides it.
+
+In versions of the Game that offer Google Play Games Saved Games, you can connect a Play Games profile and choose to replace the cloud save with progress from your device or replace local progress with the cloud save. Review the choice before confirming because it overwrites the selected copy. Cloud availability depends on Google Play Games, your account, and an internet connection. The Game can still be played with local saves when you are offline or do not connect a profile.
 
 Scores, levels, rewards, continue attempts, and other virtual gameplay elements have no monetary value and cannot be exchanged for money or property.
 
@@ -118,9 +120,11 @@ Country: Ukraine
 - використовувати чити, автоматизацію, вразливості або несанкціоноване програмне забезпечення для впливу на Гру;
 - використовувати Гру незаконно або у спосіб, що завдає шкоди іншим користувачам, нам чи третім особам.
 
-### 5. Ігровий процес, прогрес і локальні збереження
+### 5. Ігровий процес, прогрес і збереження
 
-Поточна версія зберігає прогрес і налаштування локально на вашому пристрої. Видалення Гри, очищення її сховища, зміна або втрата пристрою, програмний збій чи оновлення можуть призвести до втрати локального прогресу. Якщо майбутня функція прямо не передбачатиме інше, ми не гарантуємо відновлення або перенесення локальних збережень.
+Гра зберігає прогрес і налаштування локально на вашому пристрої. Видалення Гри, очищення її сховища, зміна або втрата пристрою, програмний збій чи оновлення можуть призвести до втрати локального прогресу. Відновлення або перенесення локальних збережень доступне лише тоді, коли це прямо передбачено відповідною функцією.
+
+У версіях Гри, де доступна функція Google Play Games Saved Games, після підключення профілю Play Games ви можете вибрати: замінити хмарне збереження прогресом із пристрою або замінити локальний прогрес хмарною копією. Перевіряйте вибір перед підтвердженням, адже обрана копія буде перезаписана. Доступність хмарного збереження залежить від Google Play Games, вашого облікового запису та інтернету. Без підключення або без мережі Гра працює з локальними збереженнями.
 
 Результати, рівні, нагороди, спроби продовження та інші віртуальні елементи ігрового процесу не мають грошової вартості й не можуть бути обміняні на гроші або майно.
 
@@ -196,9 +200,11 @@ Country: Ukraine
 - использовать читы, автоматизацию, уязвимости или несанкционированное программное обеспечение для воздействия на Игру;
 - использовать Игру незаконно или способом, причиняющим вред другим пользователям, нам или третьим лицам.
 
-### 5. Игровой процесс, прогресс и локальные сохранения
+### 5. Игровой процесс, прогресс и сохранения
 
-Текущая версия хранит прогресс и настройки локально на вашем устройстве. Удаление Игры, очистка её хранилища, смена или потеря устройства, программный сбой либо обновление могут привести к потере локального прогресса. Если будущая функция прямо не предусматривает иное, мы не гарантируем восстановление или перенос локальных сохранений.
+Игра хранит прогресс и настройки локально на вашем устройстве. Удаление Игры, очистка её хранилища, смена или потеря устройства, программный сбой либо обновление могут привести к потере локального прогресса. Восстановление или перенос локальных сохранений доступны только тогда, когда это прямо предусмотрено соответствующей функцией.
+
+В версиях Игры, где доступна функция Google Play Games Saved Games, после подключения профиля Play Games можно выбрать: заменить облачное сохранение прогрессом с устройства или заменить локальный прогресс облачной копией. Проверяйте выбор перед подтверждением, поскольку выбранная копия будет перезаписана. Доступность облачного сохранения зависит от Google Play Games, вашего аккаунта и интернета. Без подключения или сети Игра работает с локальными сохранениями.
 
 Результаты, уровни, награды, попытки продолжения и другие виртуальные элементы игрового процесса не имеют денежной стоимости и не могут быть обменены на деньги или имущество.
 
